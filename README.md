@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey there 👋
+
 I’m Namrata, a software engineer building scalable backend systems and production-ready applications.
 
 I focus on writing clean, efficient code that solves real-world problems — not just demos.
