@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hey there 👋
+I’m Namrata, a software engineer building scalable backend systems and production-ready applications.
+
+I focus on writing clean, efficient code that solves real-world problems — not just demos.
+
+If there’s a system to design, optimize, or scale — I’m in.
+
+My main stack includes Java, Spring Boot, React, SQL, and cloud technologies.
+I care about system design, distributed systems, multithreading, and performance optimization.
+
+I’ve worked across India 🇮🇳 and the US 🇺🇸, from implementation roles to full-scale engineering environments.
+
+Currently sharpening my skills in:
+System design
+Backend architecture
+Scalable microservices
+Clean code & performance
